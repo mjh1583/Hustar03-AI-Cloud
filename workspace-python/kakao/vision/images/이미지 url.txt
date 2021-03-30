@@ -1,0 +1,17 @@
+얼굴 검출
+https://img.huffingtonpost.com/asset/5e12ed09250000041998fe28.jpeg?cache=qR91CsB1un&ops=scalefit_630_noupscale
+
+상품 검출
+http://image.fnnews.com/resource/media/image/2020/07/29/202007291601524306_l.jpg
+
+썸네일 생성 
+http://image.imnews.imbc.com/replay/2020/nwtoday/article/__icsFiles/afieldfile/2020/08/28/today_20200828_064650_2_13_Large.jpg
+
+썸네일 검출
+https://image.fmkorea.com/files/attach/new/20190604/486616/654889330/1872765272/3fb1568b4d234871639dbb219eb686f4.jpg
+
+멀티태그 생성
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn2-6SHIYQuOsNryGQEoyi_hYqMIfJN4tUVQ&usqp=CAU
+
+OCR
+https://cdn.wadiz.kr/ft/images/green001/2019/0321/20190321121653505_105.jpg/wadiz/format/jpg/quality/80/optimize

@@ -1,0 +1,5 @@
+{
+    "editor.accessibilityPageSize": 20,
+    "editor.fontSize": 16,
+    "python.pythonPath": ".venv-x86-ibm-watson\\Scripts\\python.exe"
+}
